@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon 	id="repo.blackpanther"
+	name="[COLOR lime][B]Black Panther[/COLOR][COLOR gold] Repositorio[/B][/COLOR]"
+		version="1.00"
+			provider-name="[COLOR lime][B]Team Black Panther[/B][/COLOR]">
+
+	<requires>
+            <import addon="xbmc.python" version="2.1.0"/>
+		    <import addon="script.module.addon.common" optional="true" />
+		    <import addon="script.module.t0mm0.common" optional="true" />
+		    <import addon="script.module.urlresolver" optional="true" />
+
+    </requires>
+
+	<extension point="xbmc.addon.repository" name="repo.blackpanther">
+
+		<dir>
+			<info compressed="true">https://github.com/blackpanther91/repo.blackpanther/raw/master/addons.xml</info>
+			<checksum>https://github.com/blackpanther91/repo.blackpanther/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/blackpanther91/repo.blackpanther/raw/master</datadir>
+		</dir>
+
+
+	</extension>
+
+
+	<extension point="xbmc.addon.metadata">
+
+	<news>
+
+	</news>
+
+	<summary>[COLOR gold]By Team Black Panther[/COLOR]</summary>
+
+	<description>[COLOR gold]By Team Black Panther[/COLOR]</description>
+
+	</description>
+
+<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
