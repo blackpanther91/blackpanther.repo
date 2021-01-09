@@ -15,9 +15,9 @@
 	<extension point="xbmc.addon.repository" name="blackpanther.repo">
 
 
-			<info compressed="true">https://github.com/blackpanther91/blackpanther.repo/raw/master/addons.xml</info>
-			<checksum>https://github.com/blackpanther91/blackpanther.repo/raw/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://github.com/blackpanther91/blackpanther.repo/raw/master</datadir>
+			<info compressed="true">https://github.com/blackpanther91/blackpanther91.github.io/raw/master/addons.xml</info>
+			<checksum>https://github.com/blackpanther91/blackpanther91.github.io/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/blackpanther91/blackpanther91.github.io/raw/master</datadir>
 
 	</extension>
 
